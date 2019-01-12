@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triforce_Simulation_OpenGL", "Triforce_Simulation_OpenGL\Triforce_Simulation_OpenGL.vcxproj", "{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Debug|x64.ActiveCfg = Debug|x64
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Debug|x64.Build.0 = Debug|x64
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Debug|x86.ActiveCfg = Debug|Win32
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Debug|x86.Build.0 = Debug|Win32
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Release|x64.ActiveCfg = Release|x64
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Release|x64.Build.0 = Release|x64
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Release|x86.ActiveCfg = Release|Win32
+		{158306B3-8CF1-4FE8-9D21-1FE39DE5385E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FF60F58-823B-4845-91AA-2AF42540CFE7}
+	EndGlobalSection
+EndGlobal
